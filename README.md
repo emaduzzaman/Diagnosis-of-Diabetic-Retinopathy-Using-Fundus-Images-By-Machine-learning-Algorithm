@@ -1,1 +1,1 @@
-# Diagnosis-of-Diabetic-Retinopathy-Using-Fundus-Images-By-Machine-learning-Algorithm
+mlproject_diabetic_retinopathy
