@@ -1,1 +1,1 @@
-mlproject_diabetic_retinopathy
+mlproject_diabetic_retinopathy_detection
